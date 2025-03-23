@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:torch",
+    "minecraft:wall_torch",
+    "minecraft:soul_torch",
+    "minecraft:soul_wall_torch",
+    "minecraft:light",
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:fire",
+    "minecraft:soul_fire",
+    "minecraft:campfire",
+    "minecraft:soul_campfire",
+    "minecraft:redstone_lamp",
+    "minecraft:shroomlight",
+    "minecraft:glowstone",
+    "minecraft:ochre_froglight",
+    "minecraft:verdant_froglight",
+    "minecraft:pearlescent_froglight",
+    "minecraft:jack_o_lantern",
+    "minecraft:sea_lantern"
+  ]
+}

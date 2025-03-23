@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="doctor_nowhere"
+version="2.2.0"
+displayName="Doctor Nowhere mod"
+displayURL="https://modrinth.com/mod/doctor-nowhere"
+logoFile="logo.png"
+credits="made by ishakirabotaem"
+authors="ishakirabotaem"
+description="changes the game, turning it into a horror game based on the works of Doctor Nowhere."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.doctor_nowhere]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.doctor_nowhere]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

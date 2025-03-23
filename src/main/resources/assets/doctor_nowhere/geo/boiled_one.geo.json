@@ -1,0 +1,87 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.boiled_one",
+				"texture_width": 512,
+				"texture_height": 512,
+				"visible_bounds_width": 15,
+				"visible_bounds_height": 16.5,
+				"visible_bounds_offset": [0, 7.75, 0]
+			},
+			"bones": [
+				{
+					"name": "boiledone",
+					"pivot": [30, 0, 0]
+				},
+				{
+					"name": "headhead",
+					"parent": "boiledone",
+					"pivot": [-33, 225.5, -1.02]
+				},
+				{
+					"name": "head",
+					"parent": "headhead",
+					"pivot": [-37, 227.5, -1.01],
+					"cubes": [
+						{"origin": [-67, 212, -1.01], "size": [60, 31, 0], "uv": [0, 214]}
+					]
+				},
+				{
+					"name": "eyes",
+					"parent": "headhead",
+					"pivot": [-33, 223.5, -1.02],
+					"cubes": [
+						{"origin": [-42, 220, -1.5], "size": [18, 7, 0], "uv": [176, 398]}
+					]
+				},
+				{
+					"name": "body",
+					"parent": "boiledone",
+					"pivot": [-39.5, 107, -1],
+					"cubes": [
+						{"origin": [-110, 0, -1], "size": [141, 214, 0], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "body2",
+					"parent": "boiledone",
+					"pivot": [-39.5, 107, -1],
+					"cubes": [
+						{"origin": [-110, 0, -1], "size": [141, 73, 0], "uv": [0, 141]}
+					]
+				},
+				{
+					"name": "chest",
+					"parent": "boiledone",
+					"pivot": [-9, 131.5, -1.01],
+					"cubes": [
+						{"origin": [-19, 122, -1.5], "size": [20, 19, 0], "uv": [229, 448]}
+					]
+				},
+				{
+					"name": "armandhand",
+					"parent": "boiledone",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "arm",
+					"parent": "armandhand",
+					"pivot": [-60, 46, -1],
+					"cubes": [
+						{"origin": [-110, 13, -0.99], "size": [52, 36, 0], "uv": [0, 336]}
+					]
+				},
+				{
+					"name": "hand",
+					"parent": "armandhand",
+					"pivot": [-52, 28.5, -1],
+					"cubes": [
+						{"origin": [-65, 11, -0.99], "size": [26, 35, 0], "uv": [0, 384]}
+					]
+				}
+			]
+		}
+	]
+}

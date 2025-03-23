@@ -1,0 +1,122 @@
+{
+  "noise": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:stinger_drum_glitch_01",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_drum_glitch_02",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_drum_glitch_03",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_drum_glitch_04",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_drum_glitch_05",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_impact_glitch_01",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_impact_glitch_02",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_impact_glitch_03",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_impact_glitch_04",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_impact_glitch_05",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_synth_1_glitch_01",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_synth_1_glitch_02",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_synth_1_glitch_03",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_synth_1_glitch_04",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_synth_1_glitch_05",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_violin_glitch_01",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_violin_glitch_02",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_violin_glitch_03",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_violin_glitch_04",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:stinger_violin_glitch_05",
+        "stream": false
+      }
+    ]
+  },
+  "drone": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:drone",
+        "stream": false
+      }
+    ]
+  },
+  "glitch_drone": {
+    "sounds": [
+      {
+        "name": "doctor_nowhere:drone_glitch_01",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:drone_glitch_02",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:drone_glitch_03",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:drone_glitch_04",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:drone_glitch_05",
+        "stream": false
+      },
+      {
+        "name": "doctor_nowhere:drone_glitch_06",
+        "stream": false
+      }
+    ]
+  }
+}
